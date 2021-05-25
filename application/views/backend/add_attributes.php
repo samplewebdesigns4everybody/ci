@@ -61,6 +61,7 @@
 
                                                 </tbody>
                                             </table>
+                                            
                                             <div class="col-md-6">
                                                 <div class="form-group">
                                                     <label for="size_type">Add size</label>
